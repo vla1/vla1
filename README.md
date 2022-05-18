@@ -49,9 +49,10 @@ const vladyslav = {
 [linkedin]: https://www.linkedin.com/in/vladyslav-pyven-godz/
 
 
-<a href="https://github.com/vla1/github-readme-stats">
+[<a href="https://github.com/vla1/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vla1&count_private=true&hide=stars&show_icons=true&theme=react&hide_border=true" />
 </a>
 <a href="https://github.com/vla1/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vla1&count_private=true&show_icons=true&theme=react&hide_border=true&layout=compact" />
 </a>
+](url)
