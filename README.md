@@ -35,7 +35,6 @@ const vladyslav = {
 <a href="https://jquery.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" alt="jest" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="jest" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.php.net/docs.php" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
